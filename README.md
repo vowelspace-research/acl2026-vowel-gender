@@ -9,6 +9,15 @@ Usage:
 1. Install requirements
 2. Run `f.py` to reproduce results
 
-Dataset is not included due to privacy/confidentiality.
+The dataset is not included due to licensing/privacy.
+Expected CSV format:
+
+Columns:
+- Speaker
+- Gender
+- Vowel
+- F1
+- F2
+- F3
 
 Results are shown in the paper.
